@@ -47,13 +47,10 @@ Các hoạt động GitHub cũng có thể được quản lý bằng dòng lệ
 
 2. **Sao chép Kho lưu trữ GitHub**:
 - Sử dụng lệnh sau để sao chép kho lưu trữ:
-```bash
 git clone https://github.com/username/repository.git
 
 3. **Commit and Push Changes**: 
 - Sau khi thực hiện thay đổi cục bộ:
-
-````bash
 git add .
 git commit -m "Your commit message"
 git push origin main
